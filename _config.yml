@@ -1,2 +1,6 @@
 theme: jekyll-theme-leonids
 title: Welcome to the Tester Website
+
+gatsby new my-blog https://github.com/renyuanz/leonids
+cd my-blog
+gatsby develop
